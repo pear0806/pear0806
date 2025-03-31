@@ -1,31 +1,32 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="height:30px;" >, I'm pear. A student from Chiayi, Taiwan
 
-🎓 **Pear** | 高中生 @ **FJSH S3AI** | 特殊選才
+## Passionate About Coding💻 & Aviation✈️
 
-🎯 **已錄取：**
+### 🔍 **About me**
 
--   🎓 [NCNU](https://www.ncnu.edu.tw/) | 國立暨南國際大學 **資訊工程學系**
--   🎓 [YZU](https://www.yzu.edu.tw/) | 元智大學 **資訊工程學系**
+🎓 **Pear** | Senior high student @ **FJSH S3AI** | 特殊選才
 
-🔍 **關於我**
+🎯 **已錄取**
+
+-   🏆 **國立暨南國際大學** ([NCNU](https://www.ncnu.edu.tw/)) - **資訊工程學系**
+-   🏆 **元智大學** ([YZU](https://www.yzu.edu.tw/)) - **資訊工程學系**
 
 -   🌱 目前正在學習 **網頁開發**，未來計畫持續精進 **軟體開發 & 資訊安全**
--   ✈️ 喜愛飛行模擬，並參與 VATSIM / IVAO 線上飛行社群
-    為虛擬華航成員 (call sign : CAL526)
+-   ✈️ Flight Simulation Enthusiast | Virtual Pilot @ **VATSIM / IVAO** member of **China Airline Virtual** (Call Sign: CAL526)
 
 ## 💬 Connect with Me
 
-<p style="display:flex; width:100%; justify-content: center; gap:15px; flex-wrap:wrap;">
+<p align="center">
   <a href="https://instagram.com/john._.0806"><img src="https://img.shields.io/badge/john._.0806-ff4500?style=for-the-badge&logo=instagram" style="border-radius:10px;">
   </a>
-  <a hred="#"><img src="https://img.shields.io/badge/pear86-skyblue?style=for-the-badge&logo=discord" style="border-radius:10px;"></a>
+  <a href="https://discord.com/users/pear86"><img src="https://img.shields.io/badge/pear86-skyblue?style=for-the-badge&logo=discord" style="border-radius:10px;"></a>
   <a href="https://github.com/pear0806"><img src="https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github" style="border-radius:10px;"></a>
   <a href="mailto:a0908512313@gmail.com"><img src="https://img.shields.io/badge/EMAIL-4caf50?style=for-the-badge&logo=gmail" style="border-radius:10px;"></a>
 </p>
 
 ## 🔨 Tools & 💻 Skills
 
-<p style="display:flex; width:100%; justify-content: center; gap:15px; flex-wrap:wrap;">
+<p align="center">
   <a href="https://www.python.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python">
   </a>
@@ -39,10 +40,10 @@
     <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript" width="50";alt="JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" width="50" alt="JavaScript">
   </a>
 
-<p style="display:flex; width:100%; justify-content: center; gap:15px; flex-wrap:wrap;">
+<p align="center">
   <a href="https://www.microsoft.com/zh-tw/software-download/windows11" target="_blank">
     <img src="https://skillicons.dev/icons?i=windows" width="50" alt="Windows 11">
   </a>
@@ -64,5 +65,5 @@
 
 <p align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pear0806&layout=compact&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pear0806&layout=compact&theme=dark&cache_seconds=86400" alt="Top Languages">
 </p>
