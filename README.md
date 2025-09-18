@@ -1,17 +1,22 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="height:30px;" >, I'm pear. A student from Chiayi, Taiwan
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="height:30px;" >, I'm Pear. A university student from Chiayi, Taiwan
 
 ## Passionate About Coding💻 & Aviation✈️
 
 ### 🔍 **About me**
 
-🎓 **Pear** | Senior high student @ **FJSH S3AI** | 特殊選才
+🎓 **Pear** | University student @ **元智大學 (YZU)** | 資訊工程學系
 
-🎯 **已錄取**
+🎯 **學歷**
 
--   🏆 **國立暨南國際大學** ([NCNU](https://www.ncnu.edu.tw/)) - **資訊工程學系**
--   🏆 **元智大學** ([YZU](https://www.yzu.edu.tw/)) - **資訊工程學系**
+-   過去
+    -   嘉義市輔仁國中
+    -   嘉義市輔仁高中
+-   🏆 已錄取並入學：
 
--   🌱 目前正在學習 **網頁開發**，未來計畫持續精進 **軟體開發 & 資訊安全**
+    -   **國立暨南國際大學** ([NCNU](https://www.ncnu.edu.tw/)) - **資訊工程學系**
+    -   **元智大學** ([YZU](https://www.yzu.edu.tw/)) - **資訊工程學系**（已選擇 NCNU 就讀）
+
+-   🌱 目前專注於 **網頁開發**，計畫持續精進 **軟體開發 & 資訊安全**
 -   ✈️ Flight Simulation Enthusiast | Virtual Pilot @ **VATSIM / IVAO** member of **China Airline Virtual** (Call Sign: CAL526)
 
 ## 💬 Connect with Me
