@@ -39,20 +39,19 @@
   </a>
 
 <p align="center">
-  <a href="https://www.microsoft.com/zh-tw/software-download/windows11" target="_blank">
-    <img src="https://skillicons.dev/icons?i=windows" width="50" alt="Windows 11">
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" width="50" alt="VS Code">
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code">
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git">
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code">
+  <a href="https://www.microsoft.com/zh-tw/software-download/windows11" target="_blank">
+    <img src="https://skillicons.dev/icons?i=windows" width="50" alt="Windows">
   </a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="50" alt="Discord">
-  </a>
-  <a href="https://www.instagram.com/john._.0806/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram">
+  <a href="https://www.apple.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=apple" width="50" alt="apple">
   </a>
 </p>
 
