@@ -6,16 +6,6 @@
 
 🎓 **Pear** | University student @ **元智大學 (YZU)** | 資訊工程學系
 
-🎯 **學歷**
-
--   過去
-    -   嘉義市輔仁國中
-    -   嘉義市輔仁高中
--   🏆 已錄取並入學：
-
-    -   **國立暨南國際大學** ([NCNU](https://www.ncnu.edu.tw/)) - **資訊工程學系**
-    -   **元智大學** ([YZU](https://www.yzu.edu.tw/)) - **資訊工程學系**（已選擇 NCNU 就讀）
-
 -   🌱 目前專注於 **網頁開發**，計畫持續精進 **軟體開發 & 資訊安全**
 -   ✈️ Flight Simulation Enthusiast | Virtual Pilot @ **VATSIM / IVAO** member of **China Airline Virtual** (Call Sign: CAL526)
 
